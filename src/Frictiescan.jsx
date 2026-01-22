@@ -379,7 +379,7 @@ const Frictiescan = () => {
     });
 
     // EmailJS configuratie
-    const EMAILJS_SERVICE_ID = 'service_tbuold9';
+    const EMAILJS_SERVICE_ID = 'service_nebjm8o';
     const EMAILJS_TEMPLATE_ID = 'template_q9oaamh'; // Je moet deze template nog aanmaken
     const EMAILJS_PUBLIC_KEY = 'kgnlp3ATcUWA_btSC';
 
