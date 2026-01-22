@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Check, X, AlertCircle, Mail } from 'lucide-react';
+import { Check, AlertCircle, Mail } from 'lucide-react';
 
 const Frictiescan = () => {
   const [bedrijfsnaam, setBedrijfsnaam] = useState('');
